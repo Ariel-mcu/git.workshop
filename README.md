@@ -41,7 +41,7 @@ Linux : Ubuntu 、CentOS、RedHet
 
 git : 只花了10天寫出來
 
-![image](https://github.com/Ariel-mcu/git.workshop/blob/main/004-15.jpg)
+
 
 ## new section
 
