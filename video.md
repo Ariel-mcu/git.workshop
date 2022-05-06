@@ -1,6 +1,6 @@
 # git workshop
 <!-- h1 -->
-## MEFF 25
+## MEFF 25 辛宜儒
 <!-- h2 -->
 ### this is h3
 
