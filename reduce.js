@@ -7,8 +7,15 @@ let input = [
 // let output = { 1: 100, 2: 300, 3: 200, 4: 500};
 // 找出每個商品的價格，以 id 為 key
 
-input.reduce(function(acc, item){
-    // 
+let output = input.reduce(function(acc, item){
     acc[item.id] = item.price;
     return acc;
 }, {});
+
+// output = input.reduce(function(acc, item){
+//     console.log('acc', acc);
+//     acc[item.id] = item.price;
+
+// }, {});
+
+// console.log(output);
